@@ -9,3 +9,5 @@ Usage -
 4. Click minimize to tray button
 5. That's all! To hide your window, press 'CTRL + SPACE' combo and the window disappears! Press the combo again and the window will reappear
 
+![alt tag](https://raw.github.com/intothevoid/bosskey/tree/master/BossKee/res/sshot.png)
+
